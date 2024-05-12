@@ -1,0 +1,11 @@
+total_bill,tip,day,time,size
+45,3,Sun,Dinner,4
+50,2,Mon,Dinner,3
+30,4,Mon,Lunch,3
+70,3,Wed,Dinner,2
+40,4,Thu,Lunch,4
+60,5,Fri,Dinner,4
+70,2,Sat,Dinner,2
+50,2,Sat,Lunch,2
+10,1,Sun,Dinner,2
+20,1,Wed,Lunch,2
